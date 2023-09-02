@@ -7,7 +7,12 @@ Beach is my favourite spot because **natural beauty**of beach like sunset and su
 ***
 
 # Favourite vacation spot
-Having fun with families and friends.
-Eating famous seafood in my favourite location.
-riding a horse in my favourite spot.
+## Three Activites at my favourite vacation spot
+1.Having fun with families and friends.
+2.Eating famous seafood in my favourite location.
+3.riding a horse in my favourite spot.
+### List of Dishes
+*Fresh Fish
+*Grilled Fish and Chicken
+*Crabs
 
