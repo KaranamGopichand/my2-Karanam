@@ -19,6 +19,15 @@
 
 -----------------------------------------------------------------------
 
+# Pithy Quotes
+
+> "Happiness is not something ready-made. It comes from your own actions" - *Dalai Lama*
+> "Success is not final, failure is not fatal: It is the courage to continue that counts" - *Winston Churchill*
+
+
+
+
+
 
 
 
