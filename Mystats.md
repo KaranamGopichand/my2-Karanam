@@ -4,5 +4,22 @@
  
  ![pic](https://github.com/KaranamGopichand/my2-Karanam/assets/142835911/55172788-10a7-429f-a206-92c42d874f57)
 
- 
+ ---------------------------------------------------------------------
+
+ # Sports Table
+
+ sports that i am intrested and  reason why i recommended for someone 
+
+ | Game Name       |   Reason                      | Hours/Weeks      |
+ | --------------- |  ---------------------------- | ---------------- |
+ | Cricket         |  Body Fitness                 |      4           |
+ | Volleyball      |  Teamwork                     |      6           |
+ | Chess           |  Improves Concentraion        |      9           |
+ | Badminton       |  Stress Relief                |      5           |
+
+-----------------------------------------------------------------------
+
+
+
+
 
