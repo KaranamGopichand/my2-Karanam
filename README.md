@@ -16,4 +16,4 @@ Beach is my favourite spot because **natural beauty**of beach like sunset and su
 *Fresh Fish
 *Grilled Fish and Chicken
 *Crabs
-[good](Mystats.md)
+[Karanam](Mystats.md)
