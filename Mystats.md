@@ -24,6 +24,26 @@
 > "Happiness is not something ready-made. It comes from your own actions" - *Dalai Lama*
 > "Success is not final, failure is not fatal: It is the courage to continue that counts" - *Winston Churchill*
 
+-------------------------------------------------------------------------
+# Code Fencing
+> How do I replace all occurrences of a string in JavaScript?
+[Stack overflow]
+ <https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript>
+
+```
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+  
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+  
+  @return $string;
+}
+```
+[SASS Snippet]
+ <https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript>
+
 
 
 
