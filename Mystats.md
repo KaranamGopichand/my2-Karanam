@@ -28,7 +28,7 @@
 # Code Fencing
 > How do I replace all occurrences of a string in JavaScript?
 [Stack overflow]
-<https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript>
+> https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript
 
 ```
 @function str-replace($string, $search, $replace: '') {
@@ -42,7 +42,7 @@
 }
 ```
 [SASS Snippet]
-<https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript>
+> https://stackoverflow.com/questions/1144783/how-do-i-replace-all-occurrences-of-a-string-in-javascript
 
 
 
